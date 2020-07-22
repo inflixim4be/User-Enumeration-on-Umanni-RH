@@ -1,4 +1,4 @@
-# CVE-2020-
+# User Enumeration
 User Enumeration on Umanni RH
 
 ==
